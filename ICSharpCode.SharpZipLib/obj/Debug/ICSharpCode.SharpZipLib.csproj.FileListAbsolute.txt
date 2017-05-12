@@ -1,0 +1,19 @@
+C:\Users\zhangyx_xyz\Desktop\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\zhangyx_xyz\Desktop\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\zhangyx_xyz\Desktop\icsharpcode-SharpZipLib-41c14c5\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\zhangyx_xyz\Desktop\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\zhangyx_xyz\Desktop\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.dll.CodeAnalysisLog.xml
+C:\Users\zhangyx_xyz\Desktop\icsharpcode-SharpZipLib-41c14c5\bin\Debug\ICSharpCode.SharpZipLib.dll.lastcodeanalysissucceeded
+C:\Users\zhangyx_xyz\Desktop\icsharpcode-SharpZipLib-41c14c5\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\zhangyx_xyz\Desktop\icsharpcode-SharpZipLib-41c14c5\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.csprojResolveAssemblyReference.cache
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.csprojResolveAssemblyReference.cache
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Yzlah\Documents\Visual Studio 2013\Projects\Compress\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+E:\GitHub\Compress\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\GitHub\Compress\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\GitHub\Compress\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\GitHub\Compress\bin\Debug\ICSharpCode.SharpZipLib.dll.CodeAnalysisLog.xml
+E:\GitHub\Compress\bin\Debug\ICSharpCode.SharpZipLib.dll.lastcodeanalysissucceeded
+E:\GitHub\Compress\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.csprojResolveAssemblyReference.cache
+E:\GitHub\Compress\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+E:\GitHub\Compress\ICSharpCode.SharpZipLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
